@@ -1,0 +1,21 @@
+# Compile Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# IDE Files #
+.project
+.classpath
+.settings/
+bin/
+
+.project
+.classpath
+.settings
+
+# Maven
+target/
+
